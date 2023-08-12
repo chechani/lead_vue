@@ -1,0 +1,71 @@
+{
+  "name": "kneelead",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@chat-ui/vue3": "^1.0.11",
+    "@coreui/coreui": "^4.2.6",
+    "@coreui/vue": "^4.6.1",
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "@popperjs/core": "^2.11.6",
+    "@vueform/multiselect": "^2.6.2",
+    "@vuepic/vue-datepicker": "^4.0.0",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
+    "axios": "^1.3.2",
+    "bootstrap": "^5.2.3",
+    "chart.js": "^4.2.1",
+    "core-js": "^3.8.3",
+    "datatables.net": "^1.13.4",
+    "datatables.net-dt": "^1.13.4",
+    "datatables.net-rowgroup": "^1.3.1",
+    "datatables.net-select": "^1.6.2",
+    "datatables.net-vue3": "^2.1.0",
+    "jquery": "^3.6.4",
+    "moment": "^2.29.4",
+    "pdfjs-dist": "^3.6.172",
+    "register-service-worker": "^1.7.2",
+    "usemodal-vue3": "^0.3.7",
+    "vue": "^3.2.13",
+    "vue-awesome-paginate": "^1.1.46",
+    "vue-chartjs": "^3.5.1",
+    "vue-fab": "^2.3.1",
+    "vue-float-action-button": "^0.7.9",
+    "vue-float-menu": "^1.9.1",
+    "vue-modal-provider": "^0.2.1",
+    "vue-pdf": "^4.3.0",
+    "vue-pdf-embed": "^1.1.6",
+    "vue-router": "^4.0.3",
+    "vue-sidebar-menu": "^5.2.5",
+    "vue3-click-away": "^1.2.4",
+    "vue3-easy-data-table": "^1.5.42",
+    "vue3-pdfjs": "^0.1.6",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-pwa": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0"
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kx-tikam/KneeLeadNew.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kx-tikam/KneeLeadNew/issues"
+  },
+  "homepage": "https://github.com/kx-tikam/KneeLeadNew#readme"
+}
